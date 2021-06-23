@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AbdElShafi
 - 👀 I’m interested in FrontEnd development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript fundamentals.
 
 
 <!--
